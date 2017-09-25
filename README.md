@@ -1,6 +1,21 @@
 # line-number-color package
 
-A short description of your package.
+change the color to the line of selection and define better where you are and that you select.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
-# line-number-color
+# install
+
+Atom Package Manager (APM):
+```bash
+apm install line-number-color
+```
+# Screenshots
+
+![preview gif](https://i.imgur.com/7ybaALo.gif)
+
+![preview gif](https://i.imgur.com/npMGuMs.gif)
+
+![preview gif](https://i.imgur.com/Ht8E3Mj.gif)
+
+# LusaxWeb
+
+this plugin is creator by [lusaxweb](http://www.lusaxweb.com.ve/)

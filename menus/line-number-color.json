@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle line-number-color",
+        "command": "line-number-color:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "line-number-color",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "line-number-color:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

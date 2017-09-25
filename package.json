@@ -1,0 +1,28 @@
+{
+  "name": "line-number-color",
+  "main": "./lib/line-number-color",
+  "version": "0.0.0",
+  "description": "change the color to the line of selection and define better where you are and that you select",
+  "keywords": [
+    "line-number",
+    "numbers",
+    "color",
+    "line",
+    "cursor"
+  ],
+  "repository": "https://github.com/luisDanielRoviraContreras/line-number-color",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery":"^3.2.1"
+  },
+  "configSchema": {
+    "lineNumberBackground": {
+      "type": "color",
+      "description": "color the scroll",
+      "default": "rgb(23, 149, 108)"
+    }
+  }
+}
