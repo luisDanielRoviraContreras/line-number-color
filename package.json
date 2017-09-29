@@ -19,9 +19,14 @@
     "jquery": "^3.2.1"
   },
   "configSchema": {
+    "lineNumberColor": {
+      "type": "color",
+      "description": "color the number",
+      "default": "rgb(255, 255, 255)"
+    },
     "lineNumberBackground": {
       "type": "color",
-      "description": "color the scroll",
+      "description": "color the state",
       "default": "rgb(23, 149, 108)"
     }
   }

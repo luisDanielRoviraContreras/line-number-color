@@ -16,6 +16,11 @@ apm install line-number-color
 
 ![preview gif](https://i.imgur.com/Ht8E3Mj.gif)
 
+# Number color
+
+![preview gif](https://i.imgur.com/czJOHse.gif)
+
+
 # LusaxWeb
 
 this plugin is creator by [lusaxweb](http://www.lusaxweb.com.ve/)
